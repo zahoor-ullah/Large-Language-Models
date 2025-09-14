@@ -1,4 +1,5 @@
-# Large Language Models (LLMs) are advanced deep learning systems trained on massive text datasets to understand, generate, and reason with natural language. They power many modern AI applications, from chatbots and coding assistants to search engines and content generation tools.
+# Large Language Models 
+Large Language Models (LLMs) are advanced deep learning systems trained on massive text datasets to understand, generate, and reason with natural language. They power many modern AI applications, from chatbots and coding assistants to search engines and content generation tools.
 This repository explores the concepts, implementations, and applications of LLMs, including:
 Fundamentals of transformer-based architectures.
 Training and fine-tuning techniques for domain-specific tasks.
